@@ -3,10 +3,10 @@ html {
 }
 
 .alert {
-  background-color: #D5F5E3;
+  background-color: #ededed;
   border: 1px solid;
-  border-color: #2ECC71;
-  color: #2C7635;
+  border-color: #333333;
+  color: #333333;
   padding: 2rem;
   font-size: 1.5rem;
   text-align: center;
